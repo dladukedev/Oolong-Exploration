@@ -1,0 +1,6 @@
+include ':domain'
+include ':data'
+include ':store'
+include ':ui'
+include ':app'
+rootProject.name = "News"
