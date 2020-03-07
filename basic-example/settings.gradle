@@ -1,0 +1,4 @@
+include ':store'
+include ':ui'
+include ':app'
+rootProject.name = "Basic Oolong Example"
