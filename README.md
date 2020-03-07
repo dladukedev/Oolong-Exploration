@@ -1,5 +1,5 @@
 # Oolong-Exploration
-Assorted apps exploring oolong-kt on Android with Jetpack Compose
+Assorted apps exploring [oolong-kt](https://github.com/oolong-kt/oolong) on Android with Jetpack Compose
 
 
 ### Projects
